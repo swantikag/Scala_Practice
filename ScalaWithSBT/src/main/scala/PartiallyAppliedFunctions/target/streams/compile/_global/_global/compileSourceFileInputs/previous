@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.12.8":{"hashes":[["/home/knoldus/Desktop/Scala_Practice/ScalaWithSBT/src/main/scala/PartiallyAppliedFunctions/PAF.scala","176cb4a560b2a80b83c72671c12270c01b225159"]],"lastModifiedTimes":[]}}]

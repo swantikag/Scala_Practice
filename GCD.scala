@@ -3,7 +3,7 @@ class GCD{
 		val small = if(a<b) a else b
 		val large = if(a>b) a else b
 		println(small+" "+large)
-		val ans = if(small==0) large else calculateGCD(large-small, small)
-		ans
+		val answer = if(small==0) large else calculateGCD(large-small, small)
+		answer
 }
 }

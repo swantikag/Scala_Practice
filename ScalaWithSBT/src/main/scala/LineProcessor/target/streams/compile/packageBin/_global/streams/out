@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/knoldus/Desktop/Scala_Practice/ScalaWithSBT/src/main/scala/LineProcessor/target/scala-2.12/lineprocessor_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Scala_Practice/ScalaWithSBT/src/main/scala/LineProcessor/target/scala-2.12/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LineProcessor[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Scala_Practice/ScalaWithSBT/src/main/scala/LineProcessor/target/scala-2.12/classes/LineProcessor[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LineProcessor/LongLinesDriver$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Scala_Practice/ScalaWithSBT/src/main/scala/LineProcessor/target/scala-2.12/classes/LineProcessor/LongLinesDriver$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LineProcessor/LongLinesDriver.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Scala_Practice/ScalaWithSBT/src/main/scala/LineProcessor/target/scala-2.12/classes/LineProcessor/LongLinesDriver.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LineProcessor/LongLines.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Scala_Practice/ScalaWithSBT/src/main/scala/LineProcessor/target/scala-2.12/classes/LineProcessor/LongLines.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LineProcessor/LongLines$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Scala_Practice/ScalaWithSBT/src/main/scala/LineProcessor/target/scala-2.12/classes/LineProcessor/LongLines$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LineProcessor/LongLinesDriver$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Scala_Practice/ScalaWithSBT/src/main/scala/LineProcessor/target/scala-2.12/classes/LineProcessor/LongLinesDriver$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
