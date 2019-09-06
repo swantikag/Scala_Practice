@@ -6,6 +6,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/scala/LineProcessor/LongLines.scala" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/scala/LineProcessor/LongLinesDriver.scala" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/scala/PartiallyAppliedFunctions/PAF.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/TailRecursion/ListSum.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/BankAccount.scala" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/BankAccountDriver.scala" beforeDir="false" />
